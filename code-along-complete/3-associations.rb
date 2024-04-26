@@ -19,7 +19,7 @@ contact = Contact.new
 contact["first_name"] = "Tim"
 contact["last_name"] = "Cook"
 contact["email"] = "tim@apple.com"
-contact["company_id"] = apple["id"]
+contact["company_id"] = apple["id"] #this is the sectret sauce
 contact.save
 
 contact = Contact.new
