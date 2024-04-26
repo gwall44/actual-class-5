@@ -13,3 +13,4 @@ for model in ApplicationRecord.descendants
     end
     puts
 end
+#code from professor to visualize code
